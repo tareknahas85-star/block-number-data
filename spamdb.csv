@@ -1,0 +1,6 @@
+# Block Number spam database
+# format: number,category,negative,positive,neutral,name
+number,category,negative,positive,neutral,name
++963999000001,telemarketing,10,0,1,Test Telemarketer
++963999000002,scam,25,0,0,Test Scam Number
++963999000003,debt-collector,8,1,2,Test Debt Collector
