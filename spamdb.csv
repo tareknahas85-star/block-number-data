@@ -1,0 +1,3 @@
+number,category,negative,positive,neutral,name
+# Test entry so the app's update works. Not a real number. Replace with real spam numbers.
++000000000000,test,0,0,0,Test entry
