@@ -28,3 +28,10 @@ number,category,negative,positive,neutral,name
 - السطور اللي بتبلّش بـ`#` بيتجاهلها التطبيق.
 
 > هلأ اللستة فيها رقم تجربة واحد بس (`+000000000000`)، ومو رقم حقيقي.
+
+
+## Contribute · ساهم معنا
+
+Want to help? Read [CONTRIBUTING.md](CONTRIBUTING.md). Questions or ideas are welcome in [Discussions](../../discussions).
+
+بدك تساعد؟ اقرا [CONTRIBUTING.md](CONTRIBUTING.md). أي سؤال أو فكرة احكيها بـ [Discussions](../../discussions).
